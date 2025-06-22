@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who won the ICC T20 World Cup 2024?",
+    "options": [
+      "India",
+      "Australia",
+      "England",
+      "South Africa"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "Which player scored the most runs in IPL 2023?",
+    "options": [
+      "Virat Kohli",
+      "Shubman Gill",
+      "Faf du Plessis",
+      "David Warner"
+    ],
+    "answer": "Shubman Gill"
+  }
+]
